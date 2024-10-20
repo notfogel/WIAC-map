@@ -6,3 +6,6 @@
 
 Enrollment data as of 2023. Sourced from [Wisconsin.edu.](https://www.wisconsin.edu/education-reports-statistics/enrollments/)
 Location data calibrated to the center of the logo in the school's football stadium, collected using Google Maps Satellite view.
+Graphics from [SVGRepo.com.](svgrepo.com)
+County boundaries, state boundary, and major roads shapefiles from [Wisconsin DNR Open Data Portal.](https://data-wi-dnr.opendata.arcgis.com/)
+Projection: Wisconsin Transverse Mercator (NAD83).
