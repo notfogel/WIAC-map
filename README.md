@@ -30,3 +30,5 @@ Graphics from [SVGRepo.com.](svgrepo.com)
 County boundaries, state boundary, and major roads shapefiles from [Wisconsin DNR Open Data Portal.](https://data-wi-dnr.opendata.arcgis.com/)
 WIAC alumni data from [Pro Football Reference.](https://www.pro-football-reference.com)
 Projection: Wisconsin Transverse Mercator (NAD83).
+
+![If the map isn't loading, yes it is.](WIAC%20layout%20small.png)
